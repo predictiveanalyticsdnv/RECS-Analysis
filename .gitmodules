@@ -1,0 +1,6 @@
+[submodule "PyLib/BambooLib"]
+	path = PyLib/BambooLib
+	url = https://github.com/predictiveanalyticsdnv/BambooLib
+[submodule "PyLib/StatLib"]
+	path = PyLib/StatLib
+	url = https://github.com/predictiveanalyticsdnv/StatLib
