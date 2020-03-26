@@ -34,7 +34,7 @@ git commit -m "Commit message"
 5. Connect your remote Github repository to your local .git repository. Push your changes to the remote repo.
 ```
 git remote add origin http://github.com/PredictiveAnalytics/mygitrepo.git
-git push -u
+git push -u origin master
 ```
 6. Verify that your repo has been pushed to the remote repository on Github.
 
